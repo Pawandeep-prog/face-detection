@@ -1,0 +1,5 @@
+Flask==1.1.2
+opencv_python==4.4.0.42
+numpy==1.18.1
+scikit_learn==0.22.1
+gunicorn==20.0.4
