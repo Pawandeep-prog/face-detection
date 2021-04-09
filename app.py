@@ -1,6 +1,8 @@
 from flask import Flask, Response, render_template, request
 import cv2
 
+# cv2 for video related function
+
 app = Flask(__name__)
 
 @app.route('/')
